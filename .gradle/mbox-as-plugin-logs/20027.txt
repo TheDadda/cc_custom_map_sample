@@ -1,0 +1,318 @@
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/saveu.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/native-build-tools.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/AndInflater.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/ByteX.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/k2-performance-metrics.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/ttgame.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/rsync.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bazel-demo.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/sample_building_android_apps-groovy-dsl.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/ByteX.log end.exitCode:0 result:origin	git@code.byted.org:ugc-android/ByteX.git (fetch)
+origin	git@code.byted.org:ugc-android/ByteX.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/RidderAABTest.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/saveu.log end.exitCode:0 result:origin	git@code.byted.org:tech_client/saveu.git (fetch)
+origin	git@code.byted.org:tech_client/saveu.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/toutiao.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/sample_building_android_apps-groovy-dsl.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/lane-detector.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle.log end.exitCode:0 result:origin	git@github.com:TheDadda/gradle.git (fetch)
+origin	git@github.com:TheDadda/gradle.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/KotlinAndroidTest.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bazel-demo.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/shadowhook.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/rsync.log end.exitCode:0 result:origin	git@github.com:RsyncProject/rsync.git (fetch)
+origin	git@github.com:RsyncProject/rsync.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-recipes.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/ttgame.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/BuildInfra.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/AndInflater.log end.exitCode:0 result:origin	git@code.byted.org:ugc-android/AndInflater.git (fetch)
+origin	git@code.byted.org:ugc-android/AndInflater.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/dolphin-sdk-java.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/native-build-tools.log end.exitCode:0 result:origin	git@github.com:graalvm/native-build-tools.git (fetch)
+origin	git@github.com:graalvm/native-build-tools.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/HermesCompile.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/k2-performance-metrics.log end.exitCode:0 result:origin	git@github.com:Kotlin/k2-performance-metrics.git (fetch)
+origin	git@github.com:Kotlin/k2-performance-metrics.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/prebuilts.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/RidderAABTest.log end.exitCode:0 result:origin	git@code.byted.org:xiaozihan.larryxiao/RidderAABTest.git (fetch)
+origin	git@code.byted.org:xiaozihan.larryxiao/RidderAABTest.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/toutiao.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/aweme-spi.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/lane-detector.log end.exitCode:0 result:origin	https://github.com/andylei77/lane-detector.git (fetch)
+origin	https://github.com/andylei77/lane-detector.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-dependency-graph-generator-plugin-master.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/KotlinAndroidTest.log end.exitCode:0 result:origin	git@code.byted.org:xiaozihan.larryxiao/KotlinAndroidTest.git (fetch)
+origin	git@code.byted.org:xiaozihan.larryxiao/KotlinAndroidTest.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-profiler.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/prebuilts.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bazel.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/BuildInfra.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/purify_java_resources_archive.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-recipes.log end.exitCode:0 result:origin	git@github.com:android/gradle-recipes.git (fetch)
+origin	git@github.com:android/gradle-recipes.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/android.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/dolphin-sdk-java.log end.exitCode:0 result:origin	git@code.byted.org:ocean/dolphin-sdk-java.git (fetch)
+origin	git@code.byted.org:ocean/dolphin-sdk-java.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bytehook_demo.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/shadowhook.log end.exitCode:0 result:origin	git@code.byted.org:mobile_perf_infra/shadowhook.git (fetch)
+origin	git@code.byted.org:mobile_perf_infra/shadowhook.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/douyin.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/HermesCompile.log end.exitCode:0 result:origin	git@code.byted.org:zhumanzhou/HermesCompile.git (fetch)
+origin	git@code.byted.org:zhumanzhou/HermesCompile.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/jnilibs_info_record.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-dependency-graph-generator-plugin-master.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/.idea.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-profiler.log end.exitCode:0 result:origin	https://github.com/gradle/gradle-profiler.git (fetch)
+origin	https://github.com/gradle/gradle-profiler.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/protobuf.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/aweme-spi.log end.exitCode:0 result:origin	git@code.byted.org:ugc-android/aweme-spi.git (fetch)
+origin	git@code.byted.org:ugc-android/aweme-spi.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/tiktok.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/douyin.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/purify_java_resources_archive.log end.exitCode:0 result:origin	git@code.byted.org:aweme/purify_java_resources_archive.git (fetch)
+origin	git@code.byted.org:aweme/purify_java_resources_archive.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bazel.log end.exitCode:0 result:origin	git@github.com:bazelbuild/bazel.git (fetch)
+origin	git@github.com:bazelbuild/bazel.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/android.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bytehook_demo.log end.exitCode:0 result:origin	git@code.byted.org:mobile_perf_infra/bytehook_demo.git (fetch)
+origin	git@code.byted.org:mobile_perf_infra/bytehook_demo.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/jnilibs_info_record.log end.exitCode:0 result:origin	git@code.byted.org:aweme/jnilibs_info_record.git (fetch)
+origin	git@code.byted.org:aweme/jnilibs_info_record.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/.idea.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/protobuf.log end.exitCode:0 result:origin	https://github.com/protocolbuffers/protobuf.git (fetch)
+origin	https://github.com/protocolbuffers/protobuf.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/tiktok.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/ByteX.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/dolphin-sdk-java.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/native-build-tools.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/saveu.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/KotlinAndroidTest.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/toutiao.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/shadowhook.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bazel-demo.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/AndInflater.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/toutiao.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/saveu.log end.exitCode:0 result:origin	git@code.byted.org:tech_client/saveu.git (fetch)
+origin	git@code.byted.org:tech_client/saveu.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/shadowhook.log end.exitCode:0 result:origin	git@code.byted.org:mobile_perf_infra/shadowhook.git (fetch)
+origin	git@code.byted.org:mobile_perf_infra/shadowhook.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/ttgame.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/k2-performance-metrics.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/dolphin-sdk-java.log end.exitCode:0 result:origin	git@code.byted.org:ocean/dolphin-sdk-java.git (fetch)
+origin	git@code.byted.org:ocean/dolphin-sdk-java.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/ByteX.log end.exitCode:0 result:origin	git@code.byted.org:ugc-android/ByteX.git (fetch)
+origin	git@code.byted.org:ugc-android/ByteX.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/lane-detector.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/RidderAABTest.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/rsync.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/AndInflater.log end.exitCode:0 result:origin	git@code.byted.org:ugc-android/AndInflater.git (fetch)
+origin	git@code.byted.org:ugc-android/AndInflater.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-recipes.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bazel-demo.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/prebuilts.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle.log end.exitCode:0 result:origin	git@github.com:TheDadda/gradle.git (fetch)
+origin	git@github.com:TheDadda/gradle.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bytehook_demo.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/native-build-tools.log end.exitCode:0 result:origin	git@github.com:graalvm/native-build-tools.git (fetch)
+origin	git@github.com:graalvm/native-build-tools.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/HermesCompile.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/KotlinAndroidTest.log end.exitCode:0 result:origin	git@code.byted.org:xiaozihan.larryxiao/KotlinAndroidTest.git (fetch)
+origin	git@code.byted.org:xiaozihan.larryxiao/KotlinAndroidTest.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/douyin.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/lane-detector.log end.exitCode:0 result:origin	https://github.com/andylei77/lane-detector.git (fetch)
+origin	https://github.com/andylei77/lane-detector.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-dependency-graph-generator-plugin-master.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/ttgame.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/BuildInfra.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/k2-performance-metrics.log end.exitCode:0 result:origin	git@github.com:Kotlin/k2-performance-metrics.git (fetch)
+origin	git@github.com:Kotlin/k2-performance-metrics.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/aweme-spi.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/rsync.log end.exitCode:0 result:origin	git@github.com:RsyncProject/rsync.git (fetch)
+origin	git@github.com:RsyncProject/rsync.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/sample_building_android_apps-groovy-dsl.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/RidderAABTest.log end.exitCode:0 result:origin	git@code.byted.org:xiaozihan.larryxiao/RidderAABTest.git (fetch)
+origin	git@code.byted.org:xiaozihan.larryxiao/RidderAABTest.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/purify_java_resources_archive.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bytehook_demo.log end.exitCode:0 result:origin	git@code.byted.org:mobile_perf_infra/bytehook_demo.git (fetch)
+origin	git@code.byted.org:mobile_perf_infra/bytehook_demo.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/tiktok.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/prebuilts.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-profiler.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/douyin.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/jnilibs_info_record.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-recipes.log end.exitCode:0 result:origin	git@github.com:android/gradle-recipes.git (fetch)
+origin	git@github.com:android/gradle-recipes.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bazel.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/HermesCompile.log end.exitCode:0 result:origin	git@code.byted.org:zhumanzhou/HermesCompile.git (fetch)
+origin	git@code.byted.org:zhumanzhou/HermesCompile.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/android.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-dependency-graph-generator-plugin-master.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/.idea.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/BuildInfra.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/protobuf.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/sample_building_android_apps-groovy-dsl.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/aweme-spi.log end.exitCode:0 result:origin	git@code.byted.org:ugc-android/aweme-spi.git (fetch)
+origin	git@code.byted.org:ugc-android/aweme-spi.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/tiktok.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/purify_java_resources_archive.log end.exitCode:0 result:origin	git@code.byted.org:aweme/purify_java_resources_archive.git (fetch)
+origin	git@code.byted.org:aweme/purify_java_resources_archive.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/jnilibs_info_record.log end.exitCode:0 result:origin	git@code.byted.org:aweme/jnilibs_info_record.git (fetch)
+origin	git@code.byted.org:aweme/jnilibs_info_record.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-profiler.log end.exitCode:0 result:origin	https://github.com/gradle/gradle-profiler.git (fetch)
+origin	https://github.com/gradle/gradle-profiler.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bazel.log end.exitCode:0 result:origin	git@github.com:bazelbuild/bazel.git (fetch)
+origin	git@github.com:bazelbuild/bazel.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/android.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/.idea.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/protobuf.log end.exitCode:0 result:origin	https://github.com/protocolbuffers/protobuf.git (fetch)
+origin	https://github.com/protocolbuffers/protobuf.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/ByteX.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/prebuilts.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bazel.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/.idea.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/rsync.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/aweme-spi.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/protobuf.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/saveu.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/toutiao.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/HermesCompile.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/BuildInfra.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bytehook_demo.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/k2-performance-metrics.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/ttgame.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/lane-detector.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/native-build-tools.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/AndInflater.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/ByteX.log end.exitCode:0 result:origin	git@code.byted.org:ugc-android/ByteX.git (fetch)
+origin	git@code.byted.org:ugc-android/ByteX.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/rsync.log end.exitCode:0 result:origin	git@github.com:RsyncProject/rsync.git (fetch)
+origin	git@github.com:RsyncProject/rsync.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/RidderAABTest.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/sample_building_android_apps-groovy-dsl.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bazel.log end.exitCode:0 result:origin	git@github.com:bazelbuild/bazel.git (fetch)
+origin	git@github.com:bazelbuild/bazel.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-profiler.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/aweme-spi.log end.exitCode:0 result:origin	git@code.byted.org:ugc-android/aweme-spi.git (fetch)
+origin	git@code.byted.org:ugc-android/aweme-spi.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/prebuilts.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/KotlinAndroidTest.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/toutiao.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/shadowhook.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/.idea.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-dependency-graph-generator-plugin-master.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/BuildInfra.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/purify_java_resources_archive.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/saveu.log end.exitCode:0 result:origin	git@code.byted.org:tech_client/saveu.git (fetch)
+origin	git@code.byted.org:tech_client/saveu.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bazel-demo.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/native-build-tools.log end.exitCode:0 result:origin	git@github.com:graalvm/native-build-tools.git (fetch)
+origin	git@github.com:graalvm/native-build-tools.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/dolphin-sdk-java.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/AndInflater.log end.exitCode:0 result:origin	git@code.byted.org:ugc-android/AndInflater.git (fetch)
+origin	git@code.byted.org:ugc-android/AndInflater.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-recipes.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/protobuf.log end.exitCode:0 result:origin	https://github.com/protocolbuffers/protobuf.git (fetch)
+origin	https://github.com/protocolbuffers/protobuf.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/douyin.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/lane-detector.log end.exitCode:0 result:origin	https://github.com/andylei77/lane-detector.git (fetch)
+origin	https://github.com/andylei77/lane-detector.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/jnilibs_info_record.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/HermesCompile.log end.exitCode:0 result:origin	git@code.byted.org:zhumanzhou/HermesCompile.git (fetch)
+origin	git@code.byted.org:zhumanzhou/HermesCompile.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/android.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bytehook_demo.log end.exitCode:0 result:origin	git@code.byted.org:mobile_perf_infra/bytehook_demo.git (fetch)
+origin	git@code.byted.org:mobile_perf_infra/bytehook_demo.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/tiktok.log start  **************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/ttgame.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/k2-performance-metrics.log end.exitCode:0 result:origin	git@github.com:Kotlin/k2-performance-metrics.git (fetch)
+origin	git@github.com:Kotlin/k2-performance-metrics.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/RidderAABTest.log end.exitCode:0 result:origin	git@code.byted.org:xiaozihan.larryxiao/RidderAABTest.git (fetch)
+origin	git@code.byted.org:xiaozihan.larryxiao/RidderAABTest.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/sample_building_android_apps-groovy-dsl.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/bazel-demo.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-profiler.log end.exitCode:0 result:origin	https://github.com/gradle/gradle-profiler.git (fetch)
+origin	https://github.com/gradle/gradle-profiler.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/shadowhook.log end.exitCode:0 result:origin	git@code.byted.org:mobile_perf_infra/shadowhook.git (fetch)
+origin	git@code.byted.org:mobile_perf_infra/shadowhook.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/KotlinAndroidTest.log end.exitCode:0 result:origin	git@code.byted.org:xiaozihan.larryxiao/KotlinAndroidTest.git (fetch)
+origin	git@code.byted.org:xiaozihan.larryxiao/KotlinAndroidTest.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-dependency-graph-generator-plugin-master.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/android.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/douyin.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle.log end.exitCode:0 result:origin	git@github.com:TheDadda/gradle.git (fetch)
+origin	git@github.com:TheDadda/gradle.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/tiktok.log end.exitCode:128 result:**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/dolphin-sdk-java.log end.exitCode:0 result:origin	git@code.byted.org:ocean/dolphin-sdk-java.git (fetch)
+origin	git@code.byted.org:ocean/dolphin-sdk-java.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/purify_java_resources_archive.log end.exitCode:0 result:origin	git@code.byted.org:aweme/purify_java_resources_archive.git (fetch)
+origin	git@code.byted.org:aweme/purify_java_resources_archive.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/gradle-recipes.log end.exitCode:0 result:origin	git@github.com:android/gradle-recipes.git (fetch)
+origin	git@github.com:android/gradle-recipes.git (push)
+**************
+DEBUG [CommandLine-/Users/da/Projects/sample_building_android_apps-groovy-dsl] Execute cmd(`git remote -v`) in dir /Users/da/Projects/jnilibs_info_record.log end.exitCode:0 result:origin	git@code.byted.org:aweme/jnilibs_info_record.git (fetch)
+origin	git@code.byted.org:aweme/jnilibs_info_record.git (push)
+**************
